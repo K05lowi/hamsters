@@ -1,3 +1,5 @@
+[About](https://k05lowi.github.io/hamsters/about)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/K05lowi/hamsters/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
