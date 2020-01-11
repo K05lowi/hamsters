@@ -1,6 +1,5 @@
 {% include navigation.html %}
 
-[About](https://k05lowi.github.io/hamsters/about)
 
 ## Welcome to GitHub Pages
 
