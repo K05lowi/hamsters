@@ -3,7 +3,7 @@
 
 ## Welcome to GitHub Pages
 
-![Happy Hamster](https://github.com/K05lowi/hamsters/blob/master/pictures/12243333523_dc175e477d_b.jpg)
+![Happy Hamster](/pictures/12243333523_dc175e477d_b.jpg)
 
 You can use the [editor on GitHub](https://github.com/K05lowi/hamsters/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
