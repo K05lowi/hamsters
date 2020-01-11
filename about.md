@@ -1,7 +1,7 @@
 # About side
 ## Her kan du læse om os
-1. item 1
-* Item 1a
+1. This webiste is for hamster lovers
+* golden hamsters versus dwarf hamsters
 
 Steering group | Role
 ---------------|-----
