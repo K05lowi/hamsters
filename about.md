@@ -8,4 +8,6 @@ Steering group | Role
 Lorna | member
 Dicte | member
 
+![hamster in a cup](/pictures/
+
 
