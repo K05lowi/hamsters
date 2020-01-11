@@ -1,1 +1,2 @@
 kan ikke tomme mapper derfor skriver man en kort tekst
+Man kan slette tekst filen efter man har uploadet et billede
