@@ -7,3 +7,5 @@ Steering group | Role
 ---------------|-----
 Lorna | member
 Dicte | member
+
+![Cute Hamster](https://www.flickr.com/photos/7966453@N06/2096384599)
