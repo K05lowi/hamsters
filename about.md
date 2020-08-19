@@ -8,6 +8,7 @@ Steering group | Role
 Lorna | member
 Dicte | member
 
+Andre er også medlem
 
 
 
