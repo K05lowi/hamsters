@@ -9,6 +9,6 @@ Lorna | member
 Dicte | member
 
 Andre er også medlem
-
+Marianne is not a member
 
 
